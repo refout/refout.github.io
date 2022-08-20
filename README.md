@@ -1,3 +1,4 @@
+<style>
 @media (prefers-color-scheme: dark) {
   :root {
     /* 浅色主题 */
@@ -18,6 +19,8 @@ html {
   color: var(--current-primary-color);
   background-color: var(--current-background-color);
 }
+</style>
+
 # Hi 👋
 
 - 🔭 ...
