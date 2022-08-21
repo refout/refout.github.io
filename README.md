@@ -9,4 +9,6 @@
 - 😄 ...
 - ⚡ ...
 
+[算法时间复杂度](data_structure.md)
+
 <link rel="stylesheet" type="text/css" href="css/github-markdown.css">
