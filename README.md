@@ -1,5 +1,7 @@
 <link rel="stylesheet" type="text/css" href="css/github-markdown.css">
 
+![avatar](https://avatars.githubusercontent.com/u/26224983?v=4)
+
 # Hi 👋
 
 - 🔭 ...
