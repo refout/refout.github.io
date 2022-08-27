@@ -1169,3 +1169,14 @@ blockquote>h6:first-child::before {
     display: inline-block;
     margin-right: 4px;
 }
+
+body,
+pre,
+.highlight,
+.file-list-item-summary {
+    font-family: var(--general-font);
+    font-feature-settings: var(--general-font-feature-settings);
+    color: var(--text-color);
+    background-color: var(--bg-color);
+    line-height: 1.6;
+}
