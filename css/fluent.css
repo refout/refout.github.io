@@ -221,6 +221,7 @@ html {
 
 body,
 pre,
+.highlight,
 .file-list-item-summary {
     font-family: var(--general-font);
     font-feature-settings: var(--general-font-feature-settings);

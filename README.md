@@ -22,4 +22,14 @@
 - ⚡ ...
 ```
 
+``` java
+public class HelloWorld {
+
+    public static void main(String[] args) {
+        System.out.println("Hello World");
+    }
+    
+}
+```
+
 <link rel="stylesheet" type="text/css" href="css/fluent.css">
