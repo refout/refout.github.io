@@ -14,7 +14,8 @@ title: 关于我
 - 😄 ...
 - ⚡ ...
 
-
 ## 联系我
 
 - GitHub: [https://github.com/refout](https://github.com/refout)
+
+## <a href="{{ site.baseurl }}/static/xml/rss.xml">RSS订阅</a>
